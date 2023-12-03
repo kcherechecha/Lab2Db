@@ -1,0 +1,6 @@
+@DBLaba2Cherechecha_HostAddress = http://localhost:5294
+
+GET {{DBLaba2Cherechecha_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
